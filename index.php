@@ -7,5 +7,10 @@
 </head>
 <body>
     <h1>Belajar Git Remote</h1>
+    <ul>
+        <li>list 1</li>
+        <li>list 2</li>
+        <li>list 3</li>
+    </ul>
 </body>
 </html>
